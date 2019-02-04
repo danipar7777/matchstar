@@ -1,0 +1,4 @@
+export const CREATE_MATCH = "CREATE_MATCH";
+export const UPDATE_MATCH = "UPDATE_MATCH";
+export const DELETE_MATCH = "DELETE_MATCH";
+export const FETCH_MATCHS = "FETCH_MATCHS";
